@@ -8,3 +8,16 @@
 .company-img{
     width: 80px;
 }
+.footer-bg{
+    color: white;
+    background-color: rgb(31, 30, 30);
+}
+.f-3{
+    font-size: 12px;
+    margin: 0%;
+}
+footer a{
+    text-decoration: none;
+    margin: 5px;
+    color: white;
+}
